@@ -1,0 +1,23 @@
+h1{
+
+    color:rgb(0, 255, 157)
+
+}
+.header{
+    background-color: blueviolet;
+    border: solid;
+    display:flex;
+    justify-content:space-around
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
